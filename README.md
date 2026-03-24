@@ -20,7 +20,7 @@ npm install
 2. Запустите `npm start`
 3. Готово!
 
-## Использование
+## Использование  
 
 ```javascript
 import { PollinationClient } from './src/client.js';
